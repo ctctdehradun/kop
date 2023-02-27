@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:rolling
 
 # Base install
 RUN apt-get update -y
