@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:23.10
 
 # Base install
 RUN apt-get update -y
