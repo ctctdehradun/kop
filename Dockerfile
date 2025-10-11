@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:25.04
 
 # Base install
 RUN apt-get update -y
